@@ -1,8 +1,8 @@
 # **ONE PAGE - SANDMAN**
 
-<img src="./img/DESKTOP.png"/>
+![](./img/DESKTOP.png)
 
-## [Clique aqui](https://viniciusnunes137.github.io/one-page-2022/ds1m-b/viniciusNunes/) para acessar o site
+## [Clique aqui](https://viniciusnunes137.github.io/sandman/) para acessar o site
 
 ## **SOBRE**
 
@@ -42,4 +42,3 @@
 ## **AUTOR**
 
  <a href="https://github.com/VINICIUSNUNES137"><img src="https://img.shields.io/badge/DESENVOLVEDOR-VINICIUS%20NUNES-informational?style=for-the-badge&logo=appveyor"></a>
-# sandman
